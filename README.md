@@ -51,6 +51,8 @@ print(cm)
 classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
 ```
+![image](https://github.com/user-attachments/assets/717f9f73-642d-4788-a0c1-ad1001d3d8c2)
+
 ![image](https://github.com/user-attachments/assets/cfad1ed6-bac4-44d0-990b-916dbfe100cf)
 
 ## Result:
