@@ -69,9 +69,7 @@ print(classification_report1)
 print("Name:Vedagiri Indu Sree")
 print("Reg No:212223230236")
 ```
-![image](https://github.com/user-attachments/assets/717f9f73-642d-4788-a0c1-ad1001d3d8c2)
-
-![image](https://github.com/user-attachments/assets/cfad1ed6-bac4-44d0-990b-916dbfe100cf)
+![image](https://github.com/user-attachments/assets/d6e28050-57d1-4b19-9ea6-e10fe6a84c69)
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
